@@ -26,6 +26,8 @@ July 2013 – December 2017
 #### Research Assistant, University of São Paulo, São Carlos, SP, Brazil
 March 2010 – April 2012
 
+<br/><br/>
+
 ## Projects List:
 ## E-commerce-Demand-Prediction
 https://github.com/joao-l-rossi/E-commerce-Demand-Prediction
