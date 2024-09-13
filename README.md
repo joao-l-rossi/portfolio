@@ -12,7 +12,8 @@ University of São Paulo - USP, Sao Carlos, Brazil
 São Paulo State University – UNESP, Rio Preto, Brazil
 
 ### Work Experience
-Senior Data Analyst – Logibec / Analysis Works, Canada
+
+#### Senior Data Analyst – Logibec / Analysis Works, Canada
 June 2022 – July 2024
 
 #### Business Development Specialist, Federated Co-operatives Limited, Canada 
