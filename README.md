@@ -1,6 +1,7 @@
 # Data Science & Data Analysis
 ### Education
 <br/>
+
 #### Lighthouse Labs Data Science Bootcamp Oct 2021 - Jan 2022
 Saskatchewan Polytechnic, Saskatoon, SK, Canada
 600+ work hours bootcamp covering topics in Data Science
