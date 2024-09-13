@@ -12,3 +12,14 @@ University of São Paulo - USP, Sao Carlos, Brazil
 São Paulo State University – UNESP, Rio Preto, Brazil
 
 ### Work Experience
+Senior Data Analyst – Logibec / Analysis Works, Canada
+June 2022 – July 2024
+
+#### Business Development Specialist, Federated Co-operatives Limited, Canada 
+August 2019 – October 2021
+
+#### Research assistant/Data analyst, Montana State University, Bozeman, MT, USA
+July 2013 – December 2017
+
+#### Research Assistant, University of São Paulo, São Carlos, SP, Brazil
+March 2010 – April 2012
