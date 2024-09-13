@@ -41,13 +41,13 @@ Predicting flight delays in US using LHL database for historical flights and wea
 
 https://github.com/joao-l-rossi/LHL-Predicting-Flight-Delays
 
-#### Bank Costumer segmentation (LHL project)
+#### Bank Customer Segmentation (LHL project)
 Segmentation of bank customers based on behavior and customer demographics.
 
 https://github.com/joao-l-rossi/mini_project_III
 
-#### Inded Scraping for a word cloud
-Scraping job descriptions from Indeed to get a word cloud of job descriptions.
+#### Inded Web Scraping to Build a Word Cloud
+Scraping job descriptions from Indeed to build a word cloud.
 
 https://colab.research.google.com/drive/1GwKpUpC2sEAdPowU8j9lkxeVk74O_Ky1
 
