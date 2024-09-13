@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Science & Data Analysis
 ### Education
 
 #### Lighthouse Labs Data Science Bootcamp Oct 2021 - Jan 2022
