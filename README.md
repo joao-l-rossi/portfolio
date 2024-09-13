@@ -41,4 +41,10 @@ Predicting flight delays in US using LHL database for historical flights and wea
 
 https://github.com/joao-l-rossi/LHL-Predicting-Flight-Delays
 
+#### Costumer segmentation for a bank (LHL project)
+Segmentation of bank customers based on behavior and customer demographics.
+
+https://github.com/joao-l-rossi/mini_project_III
+
+
 
