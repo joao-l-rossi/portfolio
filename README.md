@@ -1,6 +1,6 @@
 # Data Science & Data Analysis
 
-### Education
+## Education
 #### Lighthouse Labs Data Science Bootcamp Oct 2021 - Jan 2022
 Saskatchewan Polytechnic, Saskatoon, SK, Canada
 600+ work hours bootcamp covering topics in Data Science
@@ -13,7 +13,7 @@ São Paulo State University – UNESP, Rio Preto, Brazil
 
 <br/><br/>
 
-### Work Experience
+## Work Experience
 #### Senior Data Analyst – Logibec / Analysis Works, Canada
 June 2022 – July 2024
 
@@ -25,3 +25,8 @@ July 2013 – December 2017
 
 #### Research Assistant, University of São Paulo, São Carlos, SP, Brazil
 March 2010 – April 2012
+
+## Projects List:
+## E-commerce-Demand-Prediction
+https://github.com/joao-l-rossi/E-commerce-Demand-Prediction
+
