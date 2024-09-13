@@ -1,6 +1,6 @@
 # Data Science & Data Analysis
 ### Education
-
+<br/>
 #### Lighthouse Labs Data Science Bootcamp Oct 2021 - Jan 2022
 Saskatchewan Polytechnic, Saskatoon, SK, Canada
 600+ work hours bootcamp covering topics in Data Science
@@ -14,7 +14,7 @@ São Paulo State University – UNESP, Rio Preto, Brazil
 <br/><br/>
 
 ### Work Experience
-
+<br/>
 #### Senior Data Analyst – Logibec / Analysis Works, Canada
 June 2022 – July 2024
 
