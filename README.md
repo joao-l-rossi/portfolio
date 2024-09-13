@@ -31,5 +31,12 @@ March 2010 – April 2012
 ## Projects List:
 #### E-commerce Demand Prediction
 Forecasting items demand for a sportswear e-commerce company.
+
 https://github.com/joao-l-rossi/E-commerce-Demand-Prediction
+
+## Predicting Flight Delays
+Predicting flight delays in US using LHL database for historical flights and weather data from kaggle
+
+https://github.com/joao-l-rossi/LHL-Predicting-Flight-Delays
+
 
