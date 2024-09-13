@@ -11,6 +11,7 @@ University of São Paulo - USP, Sao Carlos, Brazil
 #### Bachelor of Sciences in Mathematics Oct 2004 - Dec 2008
 São Paulo State University – UNESP, Rio Preto, Brazil
 
+
 ### Work Experience
 
 #### Senior Data Analyst – Logibec / Analysis Works, Canada
