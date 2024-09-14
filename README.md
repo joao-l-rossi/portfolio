@@ -22,7 +22,7 @@ June 2022 – July 2024
 #### Business Development Specialist, Federated Co-operatives Limited, Canada 
 August 2019 – October 2021
 
-#### Research assistant/Data analyst, Montana State University, Bozeman, MT, USA
+#### Research Assistant/Data Analyst, Montana State University, Bozeman, MT, USA
 July 2013 – December 2017
 
 #### Research Assistant, University of São Paulo, São Carlos, SP, Brazil
@@ -37,7 +37,7 @@ Forecasting items demand for a sportswear e-commerce company.
 https://github.com/joao-l-rossi/E-commerce-Demand-Prediction
 
 #### Predicting Flight Delays
-Predicting flight delays in US using LHL database for historical flights and weather data from kaggle
+Predicting flight delays in US using LHL database for historical flights and weather data from Kaggle
 
 https://github.com/joao-l-rossi/LHL-Predicting-Flight-Delays
 
