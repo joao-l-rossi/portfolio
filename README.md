@@ -51,5 +51,10 @@ Scraping job descriptions from Indeed to build a word cloud.
 
 https://colab.research.google.com/drive/1GwKpUpC2sEAdPowU8j9lkxeVk74O_Ky1
 
+#### Statistics Master Thesis: Copula-GARCH simulation study article
+Summary article related to the master's thesis project. The project aimed to establish the accuracy of copula model selection in the context of GARCH time series model applications. 
+
+http://repositorio.icmc.usp.br/server/api/core/bitstreams/54163904-a3c5-463c-ad47-c0f2ab04c1c8/content
+
 
 
