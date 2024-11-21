@@ -27,7 +27,7 @@ São Paulo State University (UNESP), Rio Preto, Brazil
 ### **Senior Data Analyst**  
 **Logibec / Analysis Works, Canada**  
 **June 2022 – July 2024**  
-- Led complex healthcare analytics projects, leveraging statistical models to provide insights and improve decision-making.  
+- Led continuous improvement initiatives including implementing and maintaining robust data validation scripts to identify inaccuracies/outliers and ensure high data quality standards through automated QA.  
 - Collaborated with cross-functional teams to design and optimize data pipelines for healthcare operations.  
 
 ### **Business Development Specialist**  
