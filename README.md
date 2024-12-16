@@ -50,6 +50,11 @@ São Paulo State University (UNESP), Rio Preto, Brazil
 ---
 
 ## 📂 Key Projects  
+### **LLM Gemini SQL Agent**  
+- **Objective**: Using a Large Language Model (LLM - Gemini in this case) as an agent to execute functions to update and respond questions about a database.  
+- **Key Skills**: LLM, Gen-AI, SQL, Agent, Functions. 
+- [View Project on GitHub](https://github.com/joao-l-rossi/SQL_Agent_Gemini)  
+
 ### **Pixel Art Classifier**  
 - **Objective**: Built a deep learning learning model capable of classifying pixel art images into two categories: Character and Scenery.  
 - **Key Skills**: Deep Learning, Computer Vision, Fastai, Gradio, Huggingface deploy. 
