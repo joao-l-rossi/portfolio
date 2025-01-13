@@ -50,8 +50,14 @@ São Paulo State University (UNESP), Rio Preto, Brazil
 ---
 
 ## 📂 Key Projects  
+### **EcoAI ml-agents**  
+- **Objective**: This project is a Unity-based simulation where a bear, controlled by Unity ML-Agents, chases a deer across a forest terrain. The bear learns optimal behavior through reinforcement learning, guided by a reward system.  
+- **Key Skills**: Unity, Neural Networks, Simulation, ML-Agents. 
+- [View Project on GitHub](https://github.com/joao-l-rossi/EcoAI)  
+
+
 ### **LLM Gemini SQL Agent**  
-- **Objective**: Using a Large Language Model (LLM - Gemini in this case) as an agent to execute functions to update and respond questions about a database.  
+- **Objective**: Using a Large Language Model (LLM - Gemini in this case) as an agent to execute functions to update and respond to questions about a database.  
 - **Key Skills**: LLM, Gen-AI, SQL, Agent, Functions. 
 - [View Project on GitHub](https://github.com/joao-l-rossi/SQL_Agent_Gemini)  
 
