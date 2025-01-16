@@ -2,7 +2,7 @@
 
 ## Data Science & Analytics Portfolio  
 
-Welcome to my portfolio! I am an experienced data analyst with a strong background in statistics, mathematics, and data science. With over seven years of professional experience and a passion for problem-solving, I excel in uncovering insights and delivering actionable results through data. Below is a summary of my education, work experience, and key projects.
+Welcome to my portfolio! I am a data analyst professional with statistics, mathematics, and data science knowledge. With over seven years of professional experience and a passion for problem-solving, I excel in uncovering insights and delivering actionable results through data. Below is a summary of my education, work experience, and key projects.
 
 ---
 
