@@ -94,7 +94,7 @@ São Paulo State University (UNESP), Rio Preto, Brazil
 ---
 
 ## 🔗 Connect With Me  
-- [LinkedIn](https://www.linkedin.com/in/joao-l-rossi)  
+- [LinkedIn](https://www.linkedin.com/in/joaolrossi/)  
 - [GitHub](https://github.com/joao-l-rossi) 
 
 ---  
