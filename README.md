@@ -10,7 +10,7 @@ Welcome to my portfolio! I am a data analyst professional with statistics, mathe
 ### **Lighthouse Labs Data Science Bootcamp**  
 **October 2021 – January 2022**  
 Saskatchewan Polytechnic, Saskatoon, SK, Canada  
-- Completed 600+ hours of intensive training in data science methodologies, machine learning, and analytics.  
+- 600+ hours of intensive training in data science methodologies, machine learning, and analytics.  
 
 ### **Master of Science in Statistics**  
 **January 2010 – April 2012**  
