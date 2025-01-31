@@ -62,7 +62,7 @@ São Paulo State University (UNESP), Rio Preto, Brazil
 - [View Project on GitHub](https://github.com/joao-l-rossi/SQL_Agent_Gemini)  
 
 ### **Pixel Art Classifier**  
-- **Objective**: Built a deep learning learning model capable of classifying pixel art images into two categories: Character and Scenery.  
+- **Objective**: Built a deep learning model capable of classifying pixel art images into two categories: Character and Scenery.  
 - **Key Skills**: Deep Learning, Computer Vision, Fastai, Gradio, Huggingface deploy. 
 - [View Project on GitHub](https://github.com/joao-l-rossi/PixelClassification)  
 
