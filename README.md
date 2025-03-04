@@ -89,7 +89,12 @@ São Paulo State University (UNESP), Rio Preto, Brazil
 ### **Copula-GARCH Simulation Study**  
 - **Objective**: Analyze the effectiveness of copula models for GARCH time series simulations.  
 - **Key Skills**: Advanced statistics, Monte Carlo simulations, and copula modeling.  
-- [Read the Article](http://repositorio.icmc.usp.br/server/api/core/bitstreams/54163904-a3c5-463c-ad47-c0f2ab04c1c8/content)  
+- [Read the Article](http://repositorio.icmc.usp.br/server/api/core/bitstreams/54163904-a3c5-463c-ad47-c0f2ab04c1c8/content)
+
+### **Thesis: The Influence of Mine Reclamation and Highway Reconstruction on Grizzly Bear Habitat Selection**  
+- **Objective**: Assessing the effect of major construction activities on grizzly bear habitat selection.  
+- **Key Skills**: Statistics, Ecology, habitat selection, biology, mine reclamation, GIS.  
+- [Read the Thesis](https://github.com/joao-l-rossi/MasterRange/blob/main/Rossi%2C%20Joao%20Thesis.pdf)
 
 ---
 
